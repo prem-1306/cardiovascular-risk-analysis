@@ -148,16 +148,19 @@ This project demonstrates how combining Excel, SQL, Python, and Power BI can cre
 
 ---
 ## 📸 Dashboard Preview
+## 📊 Dashboard Preview
+
 ### Executive Overview
-![Executive Overview](5_Dashboard/01_Executive_Overview.png)
+![Executive Overview](Cardiovascular-Risk-Analysis/5_Dashboard/01_Executive_Overview.png)
 
 ### Clinical Deep Dive
-![Clinical Deep Dive](5_Dashboard/02_Clinical_Deep_Dive.png)
+![Clinical Deep Dive](Cardiovascular-Risk-Analysis/5_Dashboard/02_Clinical_Deep_Dive.png)
 
 ### Risk & Recommendations
-![Risk & Recommendations](5_Dashboard/03_Risk_&_Recommendations.png)
+![Risk & Recommendations](Cardiovascular-Risk-Analysis/5_Dashboard/03_Risk_&_Recommendations.png)
 
 ### Detailed Recommendations
-![Detailed Recommendations](5_Dashboard/04_Detail_Recommendation.png)
+![Detailed Recommendations](Cardiovascular-Risk-Analysis/5_Dashboard/04_Detail_Recommendation.png)
 
 ## Note: Excel files are included for preprocessing steps. CSV versions are provided for easy viewing.
+> Note: Some CSV files may not preview properly on GitHub due to formatting, but they can be downloaded and used without issues.
